@@ -2,7 +2,7 @@ SparkCore-RESTserver
 ====================
 
 REST server for Spark Core
-A light webserver for the famous Spark Core using STM32 arm proc.
+A light webserver for the famous <a href="https://www.spark.io/">Spark Core</a> using STM32 arm proc.
 
 
 
@@ -15,3 +15,5 @@ Using some existant code comming from :
 * https://github.com/joyent and their <a href="https://github.com/joyent/http-parser">http-parser</a> Copyright Joyent, Inc. and other Node contributors under Licence-MIT (not clear!).
 
 My own sources are provided as <a href="http://www.wtfpl.net">WTFPL v2</a> and copyright (c) 2014 Marc Sibert.
+
+Unless required by applicable law or agreed to in writing, software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
